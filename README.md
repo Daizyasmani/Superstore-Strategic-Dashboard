@@ -113,18 +113,18 @@ To interact with the live version, open it on Tableau Public:
 
 This bar plot ranks the main product categories by total revenue. Office Supplies leads the pack, followed by Technology and Furniture, which together account for over 70% of overall sales.
 
-[Insight 1 Screenshot](screenshots/insight1.png)
+![Insight 1 Screenshot](screenshots/insight1.png)
 
 ### 📈 Insight 2: Sub‑Category Performance by Metric
 
 An interactive chart lets users switch between KPIs (Revenue, Profit, Profit Ratio, Units Sold). For example, Technology emerges as the most profitable sub‑category by profit ratio, while Office Supplies dominates in units sold volume.
 
-[Insight 2 Screenshot](screenshots/insight2.png)
+![Insight 2 Screenshot](screenshots/insight2.png)
 
 ### 📆 Insight 3: YoY Performance by Customer Segment
 
 Year‑over‑Year growth lines compare the Consumer, Corporate, and Home Office segments. The Consumer segment shows the strongest YoY increase (≈18% average), with all segments peaking during Q4 holiday seasons.
 
-[Insight 3 Screenshot](screenshots/insight3.png)
+![Insight 3 Screenshot](screenshots/insight3.png)
 
 ---
