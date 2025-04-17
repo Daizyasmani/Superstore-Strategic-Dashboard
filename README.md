@@ -101,9 +101,7 @@ To ensure clarity, the following font sizes and weights are used:
 
 ## Accessing the Dashboard
 
-To interact with the live version, open it on Tableau Public:
-
-[Dashboard analysis](https://public.tableau.com/app/profile/daizy.asmani/viz/SalesDashboard2018_17428413187980/Dashboard3)
+To interact with the live version, open it on Tableau Public: [Dashboard analysis](https://public.tableau.com/app/profile/daizy.asmani/viz/SalesDashboard2018_17428413187980/Dashboard3)
 
 ---
 
