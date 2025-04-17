@@ -19,7 +19,7 @@ An interactive Tableau dashboard analyzing the Superstore dataset, with full exp
 This dashboard provides strategic insights into the Superstore dataset. It highlights overall sales and profit performance, drills into sub-category trends, and compares customer segments—all built in Tableau.
 
 ---
-### 🎨 Design Choices
+### 🎨 Font Hierarchy Explanation
 
 To ensure clarity, the following font sizes and weights are used:
 
@@ -42,8 +42,7 @@ To ensure clarity, the following font sizes and weights are used:
 ---
 ## 📷 Preview
 
-- [Dashboard Screenshot](salesdashboard.png)
-
+![Dashboard Screenshot](salesdashboard.png)
 
 ## 🔢Explanation of Key Metrics
 
