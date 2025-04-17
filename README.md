@@ -14,6 +14,8 @@ An interactive Tableau dashboard analyzing the Superstore dataset, with full exp
 6. [Summary of insights](#summary-of-insights)
 ---
 
+- **Dataset link** [Superstore Strategic Dataset](#)
+
 ## Project Overview
 
 This dashboard provides strategic insights into the Superstore dataset. It highlights overall sales and profit performance, drills into sub-category trends, and compares customer segments—all built in Tableau.
