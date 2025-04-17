@@ -44,6 +44,8 @@ To ensure clarity, the following font sizes and weights are used:
 
 ![Dashboard Screenshot](screenshots/salesdashboard.png)
 
+---
+
 ## 🔢Explanation of Key Metrics
 
 ### Top‑Level KPIs (BANs)
