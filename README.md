@@ -20,7 +20,7 @@ An interactive Tableau dashboard analyzing the Superstore dataset, with full exp
 
 
 
-## Project Overview
+##  📝  Project Overview
 
 This dashboard provides strategic insights into the Superstore dataset. It highlights overall sales and profit performance, drills into sub-category trends, and compares customer segments—all built in Tableau.
 
@@ -88,7 +88,7 @@ To ensure clarity, the following font sizes and weights are used:
 
 ---
 
-## Dashboard Design Considerations
+## 🛠️ Dashboard Design Considerations
 
 ### Alignment & Layout
 
