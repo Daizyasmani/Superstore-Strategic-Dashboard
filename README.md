@@ -1,4 +1,4 @@
-# Superstore Strategic Dashboard
+# 📈 Superstore Strategic Dashboard
 
 An interactive Tableau dashboard analyzing the Superstore dataset, with full explanations embedded here.
 
@@ -19,7 +19,7 @@ An interactive Tableau dashboard analyzing the Superstore dataset, with full exp
 This dashboard provides strategic insights into the Superstore dataset. It highlights overall sales and profit performance, drills into sub-category trends, and compares customer segments—all built in Tableau.
 
 ---
-## Font Hierarchy Explanation
+### 🎨 Design Choices
 
 To ensure clarity, the following font sizes and weights are used:
 
@@ -40,8 +40,12 @@ To ensure clarity, the following font sizes and weights are used:
   - Purpose: Tooltips, calculation notes, and subtle guidance.
 
 ---
+## 📷 Preview
 
-## Explanation of Key Metrics
+- [Dashboard Screenshot](salesdashboard.png)
+
+
+## 🔢Explanation of Key Metrics
 
 ### Top‑Level KPIs (BANs)
 
