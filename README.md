@@ -42,7 +42,7 @@ To ensure clarity, the following font sizes and weights are used:
 ---
 ## 📷 Preview
 
-![Dashboard Screenshot](salesdashboard.png)
+![Dashboard Screenshot](screenshots/salesdashboard.png)
 
 ## 🔢Explanation of Key Metrics
 
