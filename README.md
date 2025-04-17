@@ -69,7 +69,6 @@ To ensure clarity, the following font sizes and weights are used:
   - Formula:  
     ```
     (Sales_current_year − Sales_previous_year) ÷ Sales_previous_year
-    
     ```  
   - Use: Measures annual growth for segments and categories.
 
