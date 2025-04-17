@@ -18,7 +18,7 @@ An interactive Tableau dashboard analyzing the Superstore dataset, with full exp
 
 - [Download the Superstore Strategic Dataset (CSV)](./superstore-dataset-dashboarddesign.csv)
 
-
+---
 
 ##  📝  Project Overview
 
